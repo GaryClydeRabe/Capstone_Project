@@ -3,18 +3,18 @@ A Capstone Project about Lifestyle and Learning – Predicting Student Performan
 
 This project explores how students’ lifestyle habits—such as sleep, screen time, diet, and study hours—affect their academic performance. Using a simulated dataset of 1,000 student records, we apply data analysis and machine learning techniques to identify behavior patterns, group students based on similarities, and predict their final exam scores.
 
-Project Goals
-Understand relationships between lifestyle behaviors and exam scores
+Project Goals:
+* Understand relationships between lifestyle behaviors and exam scores
 
-Group students with similar habits using clustering
+* Group students with similar habits using clustering
 
-Build regression models to predict final exam performance
+* Build regression models to predict final exam performance
 
-Optionally, classify students into performance levels (Low, Average, High)
+* Optionally, classify students into performance levels (Low, Average, High)
 
-Generate insights to inform academic improvement strategies
+* Generate insights to inform academic improvement strategies
 
-Dataset
+Dataset:
 Name: student_habits_performance.csv
 
 Source: Kaggle
