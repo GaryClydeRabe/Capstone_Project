@@ -52,10 +52,11 @@ Identified 3 meaningful clusters and profiled each group
 ### 4. Regression Models
 To predict the final exam score:
 
-Model	MAE (CV)	RMSE (CV)	R² (CV)
-Linear Regression	4.28	5.39	0.90
-Decision Tree Regressor	6.68	8.57	0.74
-Random Forest Regressor	4.69	5.90	0.88
+| Model                   | MAE (CV) | RMSE (CV) | R² (CV) |
+| ----------------------- | -------- | --------- | ------- |
+| Linear Regression       | 4.28     | 5.39      | 0.90    |
+| Decision Tree Regressor | 6.68     | 8.57      | 0.74    |
+| Random Forest Regressor | 4.69     | 5.90      | 0.88    |
 
 Linear Regression performed the best overall with the highest R² and lowest error.
 
@@ -68,10 +69,12 @@ Average (middle 34%)
 
 High (top 33%)
 
-Model	Accuracy (CV)	F1 Score (CV)
-Logistic Regression	0.79	0.78
-Decision Tree	0.72	0.70
-Random Forest	0.84	0.82
+| Model               | Accuracy (CV) | F1 Score (CV) |
+| ------------------- | ------------- | ------------- |
+| Logistic Regression | 0.79          | 0.78          |
+| Decision Tree       | 0.72          | 0.70          |
+| Random Forest       | 0.84          | 0.82          |
+
 
 Random Forest Classifier gave the best classification results.
 
