@@ -103,7 +103,7 @@ Students who studied more, maintained good health, and limited screen time consi
 Trends showed that high screen time correlated with lower scores, while more sleep and studying led to better outcomes.
 
 ## C. Model Performance
-* Linear Regression (regression) and Random Forest Classifier (classification) performed best.
+* Linear Regression (regression) and Logistic Regression (classification) performed best.
 
 * Tree-based models had higher accuracy but lower interpretability compared to linear models.
 
