@@ -71,12 +71,12 @@ High (top 33%)
 
 | Model               | Accuracy (CV) | F1 Score (CV) |
 | ------------------- | ------------- | ------------- |
-| Logistic Regression | 0.79          | 0.78          |
-| Decision Tree       | 0.72          | 0.70          |
-| Random Forest       | 0.84          | 0.82          |
+| Logistic Regression | 0.82          | 0.82          |
+| Decision Tree       | 0.72          | 0.72          |
+| Random Forest       | 0.77          | 0.77          |
 
 
-Random Forest Classifier gave the best classification results.
+Logistic Regression gave the best classification results.
 
 ## Insights and Interpretations
 ### A. Top Features Affecting Performance
